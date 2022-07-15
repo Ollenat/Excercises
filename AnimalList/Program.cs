@@ -5,10 +5,20 @@ namespace AnimalList
 {
     class Program
     {
-        private int iterations = 5; 
+        static void Main(string[] args)
+        {
+            var asker = new AnimalAsker();
+            asker.AskAnimals();
+            Environment.Exit(0);
+        }
+    }
+}
+class AnimalAsker
+{
+     private int iterations = 5; 
 
         private List<string> AnimalList = new List<string>();
-        static void Main(string[] args)
+        public void AskAnimals()
         {
             for (int i = 0; i < iterations; i++)
             {
@@ -18,10 +28,11 @@ namespace AnimalList
                 AnimalList.Add(animal);
             }
             
+            Console.WriteLine("You listed these animals:");
+
             foreach (var Animal in AnimalList)
             {
-                Console.WriteLine(Animal);
+                Console.Write($"{Animal}, ");
             }
         }
-    }
 }
