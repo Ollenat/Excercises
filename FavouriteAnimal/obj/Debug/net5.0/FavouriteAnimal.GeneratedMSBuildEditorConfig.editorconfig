@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = AnimalList
-build_property.ProjectDir = c:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\AnimalList\
+build_property.RootNamespace = FavouriteAnimal
+build_property.ProjectDir = C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\FavouriteAnimal\
