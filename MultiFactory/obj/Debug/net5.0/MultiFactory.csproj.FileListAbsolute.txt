@@ -8,9 +8,9 @@ C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFac
 C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\bin\Debug\net5.0\MultiFactory.runtimeconfig.json
 C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\bin\Debug\net5.0\MultiFactory.runtimeconfig.dev.json
 C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\bin\Debug\net5.0\MultiFactory.dll
-C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\bin\Debug\net5.0\ref\MultiFactory.dll
 C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\bin\Debug\net5.0\MultiFactory.pdb
 C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\obj\Debug\net5.0\MultiFactory.dll
 C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\obj\Debug\net5.0\ref\MultiFactory.dll
 C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\obj\Debug\net5.0\MultiFactory.pdb
 C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\obj\Debug\net5.0\MultiFactory.genruntimeconfig.cache
+C:\Users\ollbjo19\OneDrive - Lärande\Skrivbordet\Mina Repos\Excercises\MultiFactory\obj\Debug\net5.0\refint\MultiFactory.dll

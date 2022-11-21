@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5nahJAU3ToPiM1zT0Um3WZCIo8ZqWmKEIEM1CBAi877Ck+Oq/SyGd6z5LwHP5cPfX7Jqqvw7vqtav8mwAhPiQA==",
+  "dgSpecHash": "mVI0EHQv5VbsI7eMMT1zKDTYkwHWN35v0iCtXkwPvyiZ8OE3sqZ8gH94q6A4sV8LlXMi/309PbGvmahQoumzMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ollbjo19\\OneDrive - Lärande\\Skrivbordet\\Mina Repos\\Excercises\\MultiFactory\\MultiFactory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ollbjo19\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ollbjo19\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ollbjo19\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ollbjo19\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
